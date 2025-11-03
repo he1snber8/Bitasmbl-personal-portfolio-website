@@ -1,0 +1,1 @@
+// CLI-generated stub\nimport { Component } from '@angular/core';\n@Component({ selector: 'app-about', templateUrl: './about.component.html' })\nexport class AboutComponent {}
