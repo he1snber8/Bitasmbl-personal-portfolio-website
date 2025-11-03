@@ -1,0 +1,1 @@
+// After running ng new portfolio --routing --style=scss\n{\n  \"name\": \"portfolio\",\n  \"version\": \"0.0.0\",\n  \"scripts\": { \"start\": \"ng serve\" }\n}
