@@ -1,0 +1,1 @@
+// CLI-generated stub\nimport { Component } from '@angular/core';\n@Component({ selector: 'app-projects', templateUrl: './projects.component.html' })\nexport class ProjectsComponent {\n  projects = [ { title: 'Project A', desc: 'Description', link: 'https://example.com' } ];\n}
