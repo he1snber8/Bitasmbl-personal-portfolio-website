@@ -1,0 +1,1 @@
+// CLI-generated stub\nimport { Component } from '@angular/core';\n@Component({ selector: 'app-contact', templateUrl: './contact.component.html' })\nexport class ContactComponent {}
