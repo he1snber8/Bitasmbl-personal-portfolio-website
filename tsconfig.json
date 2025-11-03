@@ -1,0 +1,1 @@
+// TypeScript config\n{\n  \"compileOnSave\": false,\n  \"compilerOptions\": { \"outDir\": \"./dist\" }\n}
